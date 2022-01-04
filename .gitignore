@@ -1,0 +1,11 @@
+/.tags*
+/log
+/tmp
+/db/*.sqlite3
+/public/system
+/coverage/
+/spec/tmp
+/results
+**.orig
+rerun.txt
+Gemfile.lock
